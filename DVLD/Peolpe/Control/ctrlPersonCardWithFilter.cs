@@ -109,6 +109,9 @@ namespace DVLD.Controls
         {
             txtFilterValue.Text = "";
             txtFilterValue.Focus();
+
+            
+
         }
 
         private void btnFind_Click(object sender, EventArgs e)

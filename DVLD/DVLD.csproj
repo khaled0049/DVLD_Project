@@ -47,24 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="clsValidatoin.cs" />
-    <Compile Include="ctrAddNewPerson.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="ctrAddNewPerson.Designer.cs">
-      <DependentUpon>ctrAddNewPerson.cs</DependentUpon>
-    </Compile>
-    <Compile Include="ctrlPersonCard.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="ctrlPersonCard.Designer.cs">
-      <DependentUpon>ctrlPersonCard.cs</DependentUpon>
-    </Compile>
-    <Compile Include="ctrPersonDetails.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="ctrPersonDetails.Designer.cs">
-      <DependentUpon>ctrPersonDetails.cs</DependentUpon>
-    </Compile>
     <Compile Include="Peolpe\Control\ctrlPersonCard.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -109,15 +91,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <Compile Include="util.cs" />
-    <EmbeddedResource Include="ctrAddNewPerson.resx">
-      <DependentUpon>ctrAddNewPerson.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ctrlPersonCard.resx">
-      <DependentUpon>ctrlPersonCard.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ctrPersonDetails.resx">
-      <DependentUpon>ctrPersonDetails.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Peolpe\Control\ctrlPersonCard.resx">
       <DependentUpon>ctrlPersonCard.cs</DependentUpon>
     </EmbeddedResource>

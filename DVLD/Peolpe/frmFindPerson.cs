@@ -19,7 +19,6 @@ namespace DVLD.People
         // Declare an event using the delegate
         public event DataBackEventHandler DataBack;
 
-
         public frmFindPerson()
         {
             InitializeComponent();
