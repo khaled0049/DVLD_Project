@@ -149,7 +149,7 @@
             // 
             // pictureBox9
             // 
-            this.pictureBox9.Image = global::DVLD.Properties.Resources.People_400;
+            this.pictureBox9.Image = global::DVLD.Properties.Resources.People_4001;
             this.pictureBox9.Location = new System.Drawing.Point(236, 132);
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.Size = new System.Drawing.Size(31, 26);
@@ -159,7 +159,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::DVLD.Properties.Resources.Man_32;
+            this.pictureBox1.Image = global::DVLD.Properties.Resources.money_32___2;
             this.pictureBox1.Location = new System.Drawing.Point(128, 132);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(31, 26);
@@ -213,7 +213,7 @@
             // 
             // pictureBox8
             // 
-            this.pictureBox8.Image = global::DVLD.Properties.Resources.People_400;
+            this.pictureBox8.Image = global::DVLD.Properties.Resources.People_4001;
             this.pictureBox8.Location = new System.Drawing.Point(128, 56);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(31, 26);
@@ -278,7 +278,7 @@
             // 
             // pictureBox7
             // 
-            this.pictureBox7.Image = global::DVLD.Properties.Resources.People_400;
+            this.pictureBox7.Image = global::DVLD.Properties.Resources.People_4001;
             this.pictureBox7.Location = new System.Drawing.Point(128, 208);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(31, 26);
@@ -288,7 +288,7 @@
             // 
             // pictureBox6
             // 
-            this.pictureBox6.Image = global::DVLD.Properties.Resources.People_400;
+            this.pictureBox6.Image = global::DVLD.Properties.Resources.People_4001;
             this.pictureBox6.Location = new System.Drawing.Point(500, 172);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(31, 26);
@@ -298,7 +298,7 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.Image = global::DVLD.Properties.Resources.People_400;
+        //    this.pictureBox5.Image = global::DVLD.Properties.Resources.People_400;
             this.pictureBox5.Location = new System.Drawing.Point(128, 169);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(31, 26);
@@ -308,7 +308,7 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Image = global::DVLD.Properties.Resources.People_400;
+   //         this.pictureBox4.Image = global::DVLD.Properties.Resources.People_400;
             this.pictureBox4.Location = new System.Drawing.Point(500, 97);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(31, 26);
@@ -318,7 +318,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = global::DVLD.Properties.Resources.People_400;
+      //      this.pictureBox3.Image = global::DVLD.Properties.Resources.People_400;
             this.pictureBox3.Location = new System.Drawing.Point(128, 95);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(31, 26);
@@ -328,7 +328,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::DVLD.Properties.Resources.People_400;
+    //        this.pictureBox2.Image = global::DVLD.Properties.Resources.People_400;
             this.pictureBox2.Location = new System.Drawing.Point(499, 132);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(31, 26);
@@ -522,7 +522,7 @@
             // 
             this.pbPersonImage.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pbPersonImage.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pbPersonImage.Image = global::DVLD.Properties.Resources.Male_512;
+            this.pbPersonImage.Image = global::DVLD.Properties.Resources.money_32;
             this.pbPersonImage.InitialImage = null;
             this.pbPersonImage.Location = new System.Drawing.Point(733, 97);
             this.pbPersonImage.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -535,7 +535,7 @@
             // btnSave
             // 
             this.btnSave.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnSave.Image = global::DVLD.Properties.Resources.Man_32;
+            this.btnSave.Image = global::DVLD.Properties.Resources.money_32___2;
             this.btnSave.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnSave.Location = new System.Drawing.Point(579, 314);
             this.btnSave.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -589,7 +589,7 @@
             // 
             // pictureBox10
             // 
-            this.pictureBox10.Image = global::DVLD.Properties.Resources.People_400;
+            this.pictureBox10.Image = global::DVLD.Properties.Resources.People_4001;
             this.pictureBox10.Location = new System.Drawing.Point(147, 53);
             this.pictureBox10.Name = "pictureBox10";
             this.pictureBox10.Size = new System.Drawing.Size(31, 26);

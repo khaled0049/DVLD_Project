@@ -66,7 +66,7 @@ namespace DVLD.Controls
         private void _LoadPersonImage()
         {
             if (_Person.Gendor == 0)
-                pbPersonImage.Image = Resources.Male_512;
+                pbPersonImage.Image = Resources.money_32___2;
             else
                 pbPersonImage.Image = Resources.Female_512;
 
@@ -102,14 +102,14 @@ namespace DVLD.Controls
             lblPersonID.Text = "[????]";
             lblNationalNo.Text = "[????]";
             lblFullName.Text = "[????]";
-            pbGendor.Image = Resources.Man_32;
+            pbGendor.Image = Resources.money_32;
             lblGendor.Text = "[????]";
             lblEmail.Text = "[????]";
             lblPhone.Text = "[????]";
             lblDateOfBirth.Text = "[????]";
             lblCountry.Text = "[????]";
             lblAddress.Text = "[????]";
-            pbPersonImage.Image = Resources.Male_512;
+            pbPersonImage.Image = Resources.money_32;
         
         }
 

@@ -48,7 +48,7 @@
             // 
             this.btnClose.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnClose.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnClose.Image = global::DVLD.Properties.Resources.Man_32;
+            this.btnClose.Image = global::DVLD.Properties.Resources.money_32___2;
             this.btnClose.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnClose.Location = new System.Drawing.Point(716, 477);
             this.btnClose.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);

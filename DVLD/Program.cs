@@ -1,4 +1,5 @@
 ﻿using DVLD.Controls;
+using DVLD.Login;
 using DVLD.People;
 using System;
 using System.Collections.Generic;
@@ -18,7 +19,7 @@ namespace DVLD
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmFindPerson());
+            Application.Run(new frmLogin());
         }
     }
 }

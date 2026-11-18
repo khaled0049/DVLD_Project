@@ -255,7 +255,7 @@
             // 
             // pbGendor
             // 
-            this.pbGendor.Image = global::DVLD.Properties.Resources.Man_32;
+            this.pbGendor.Image = global::DVLD.Properties.Resources.money_32___2;
             this.pbGendor.Location = new System.Drawing.Point(118, 144);
             this.pbGendor.Name = "pbGendor";
             this.pbGendor.Size = new System.Drawing.Size(31, 26);
@@ -404,7 +404,7 @@
             // 
             this.pbPersonImage.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pbPersonImage.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pbPersonImage.Image = global::DVLD.Properties.Resources.Male_512;
+            this.pbPersonImage.Image = global::DVLD.Properties.Resources.money_32___2;
             this.pbPersonImage.InitialImage = null;
             this.pbPersonImage.Location = new System.Drawing.Point(635, 79);
             this.pbPersonImage.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DVLD.Controls;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -18,7 +19,7 @@ namespace DVLD.People
 
             InitializeComponent();
             ctrlPersonCard1.LoadPersonInfo(PersonID);
-
+            
         }
 
         public frmShowPersonInfo(string NationalNo)

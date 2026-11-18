@@ -66,7 +66,7 @@ namespace DVLD.People
 
             //set default image for the person.
             if (rbMale.Checked)
-                pbPersonImage.Image = Resources.Male_512;
+                pbPersonImage.Image = Resources.money_32___2;
             else
                 pbPersonImage.Image = Resources.Female_512;
 
@@ -284,7 +284,7 @@ namespace DVLD.People
 
             pbPersonImage.ImageLocation = null;
             if (rbMale.Checked)
-                pbPersonImage.Image = Resources.Male_512;
+                pbPersonImage.Image = Resources.money_32___2;
             else
                 pbPersonImage.Image = Resources.Female_512;
 
@@ -302,7 +302,7 @@ namespace DVLD.People
         {
             //change the defualt image to male incase there is no image set.
             if (pbPersonImage.ImageLocation == null)
-                pbPersonImage.Image = Resources.Male_512;
+                pbPersonImage.Image = Resources.money_32___2;
         }
 
         private void ValidateEmptyTextBox(object sender, CancelEventArgs e)
