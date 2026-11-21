@@ -45,7 +45,7 @@ namespace DVLD.Applications
 
         private void editToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmEditApplicationType frm = new frmEditApplicationType((clsApplicationType.enApplicationType)dgvApplicationTypes.CurrentRow.Cells[0].Value);
+            frmEditApplicationType frm = new frmEditApplicationType((int)dgvApplicationTypes.CurrentRow.Cells[0].Value);
             frm.ShowDialog();
             frmManageApplicationTypes_Load(null, null);
 

@@ -15,15 +15,15 @@ namespace DVLD.Applications
     public partial class frmEditApplicationType : Form
     {
 
-      
+        private int _ApplicationTypeID=-1;
         private clsApplicationType _ApplicationType;
-        private clsApplicationType.enApplicationType _ApplicationTypeID;
 
-        public frmEditApplicationType(clsApplicationType.enApplicationType ApplicationTypeID)
+        public frmEditApplicationType(int ApplicationTypeID )
         {
             InitializeComponent();
 
-            _ApplicationTypeID = ApplicationTypeID;
+            _ApplicationTypeID = ApplicationTypeID; 
+
         }
 
         private void frmEditApplicationType_Load(object sender, EventArgs e)

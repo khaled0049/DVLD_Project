@@ -95,11 +95,10 @@
             this.ctrlPersonCardWithFilter1.ShowAddPerson = true;
             this.ctrlPersonCardWithFilter1.Size = new System.Drawing.Size(837, 399);
             this.ctrlPersonCardWithFilter1.TabIndex = 121;
-             // 
+            // 
             // btnPersonInfoNext
             // 
             this.btnPersonInfoNext.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-          //  this.btnPersonInfoNext.Image = global::DVLD.Properties.Resources.Next_32;
             this.btnPersonInfoNext.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnPersonInfoNext.Location = new System.Drawing.Point(711, 420);
             this.btnPersonInfoNext.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -282,6 +281,7 @@
             this.lblTitle.TabIndex = 118;
             this.lblTitle.Text = "Edit Application Type";
             this.lblTitle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lblTitle.Click += new System.EventHandler(this.lblTitle_Click);
             // 
             // errorProvider1
             // 
